@@ -20,7 +20,7 @@ const index_html_page = (url: string) => /* HTML */ `<!DOCTYPE html>
         };
       </script>
       <link rel="stylesheet" href="https://unpkg.com/@queuedash/ui@${version}/dist/styles.css" />
-      <script type="module" src="https://unpkg.com/@queuedash/client@${version}/dist/main.mjs"></script>
+      <script type="module" src="https://unpkg.com/@queuedash/client@1.0.1/dist/main.mjs"></script>
     </body>
   </html>`;
 
